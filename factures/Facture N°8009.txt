@@ -1,0 +1,18 @@
+					     Wednesday 24 March 2021 17:17:57
+
+================================================================================
+
+  Bon de commande N° : 8009
+  Numero du client : 5252
+  Nom  et prenom du client : Tchotchedjo talla Mathieu Clovis
+  Coordonnées : 695922922 Ange-Raphael (Santa lucia)
+
+================================================================================
+  Ref	  Produits		  Quantité		 Prix Unitaire 
+================================================================================
+  3	  Azzaro		    16		   4000FCFA
+  10	  Aramis		    85		   5000FCFA
+  23	  Chanel Soft		    5		   5000FCFA
+
+
+	Prix total : 514000 FCFA

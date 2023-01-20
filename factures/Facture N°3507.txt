@@ -1,0 +1,20 @@
+					     Thursday 18 March 2021 08:50:36
+
+================================================================================
+
+  Facture N° : 4940
+  Numero du client : 3507
+  Nom  et prenom du client : Talla Mathieu
+  Coordonnées : 659874512 Ange Raphael
+
+================================================================================
+  Ref	  Produits		  Quantité		 Prix Unitaire 
+================================================================================
+  2	  Balenciaga		    8		   3500
+  5	  Boss		    18		   6000
+  10	  Aramis		    9		   5000
+  14	  Tenoverten		    25		   800
+  20	  Karla		    25		   650
+
+
+	Prix total : 217250 FCFA
